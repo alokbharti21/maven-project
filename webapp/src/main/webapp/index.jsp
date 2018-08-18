@@ -1,4 +1,2 @@
-hello ,jenkins
-this is prakash
-
+Ye raha Jenkins ka changes. This file should trigger and build automatically
 .......
